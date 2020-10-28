@@ -1,0 +1,47 @@
+.first-li{
+	display: inline-block;
+    color: white;
+    font-size: 22px;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.second-li{
+	display: inline-block;
+    color: white;
+    font-size: 16px;
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+
+.nav{
+	width: 1920px;
+	height: 103px;
+	display: inline-block;
+    vertical-align: top;
+    float: right;
+    margin-right: 10px;
+}
+.li3{
+	display: inline-block;
+    color: white;
+    font-size: 16px;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.img{
+	width: 1318px;
+	height: 269.06px;
+}
+.big-container{
+	width: 862px;
+	height: 585px;
+}
+.fonts-container{
+	width: 550px;
+	height: 107px;
+}
+.mom{
+	max-width: 1920px;
+	width: 100%;
+}
