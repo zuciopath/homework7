@@ -132,6 +132,10 @@ section{
 .img1 img {
     height: 261px;
 }
+header{
+    border-radius: 20px solid white;
+    background-color: white;
+}
 
 
 
