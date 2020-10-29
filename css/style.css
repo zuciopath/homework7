@@ -1,47 +1,134 @@
 .first-li{
 	display: inline-block;
-    color: white;
+    color: #FFFFFF;
     font-size: 22px;
-    margin-left: 50px;
+    margin-left: 20px;
     text-decoration: none;
 }
 .second-li{
 	display: inline-block;
     color: white;
     font-size: 16px;
-    margin-right: 50px;
+    margin-left: 70px;
     text-decoration: none;
 }
 
-
-.nav{
-	width: 1920px;
-	height: 103px;
-	display: inline-block;
-    vertical-align: top;
-    float: right;
-    margin-right: 10px;
-}
-.li3{
-	display: inline-block;
+.li-3{
+    display: inline-block;
     color: white;
     font-size: 16px;
-    margin-left: 50px;
     text-decoration: none;
+    margin-left: 585px;
 }
-.img{
-	width: 1318px;
-	height: 269.06px;
+.li-33{
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 55px;
 }
+
+.nav{
+	float: left;
+    vertical-align: top;
+    width:100%;
+    padding-top: 40px;
+}
+
+.img img{
+       width: 1218px;
+    height: 269.06px;
+    padding-top: 100px;
+    padding-left: 150px;
+    object-fit: cover;
+}
+
 .big-container{
-	width: 862px;
-	height: 585px;
+
 }
 .fonts-container{
 	width: 550px;
 	height: 107px;
 }
-.mom{
+
+body{
 	max-width: 1920px;
-	width: 100%;
+	height: 2382px;
 }
+.mom{
+    width: 1116px;
+    height: 585px;
+     margin-top: 40px;
+    margin-left: 160px;
+
+}
+
+.name{
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    float: left;
+    padding: 10px;
+    margin-right: 189px;
+}
+
+.name2{
+    float: left;
+    margin-left: 121px;
+    font-size: 12px;
+    color: #404040;
+    opacity: 0.3;
+    padding: 10px;
+   
+}
+
+.clear {
+    clear: both;
+}
+header{
+    position: fixed;
+    left: 140px;
+}
+section{
+    padding:100px 0 0 ;
+}
+
+.nav a{
+    color: #404040;
+    }
+
+.car-img{
+    float: left;
+}
+.ptag{
+    float: right;
+}
+    .p1 {font-size: 13px;
+    margin-top: 30px;
+    margin-right: 220px;
+    opacity: 0.3;
+    margin-bottom: 10px;
+}
+
+.p2{
+    font-size: 20px;
+
+}
+.p3{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.p4{font-size: 15px;
+    margin-top: 5px;
+
+}
+.towers{
+    float: left;
+}
+
+.nature{
+    float: left;
+}
+
+
+
